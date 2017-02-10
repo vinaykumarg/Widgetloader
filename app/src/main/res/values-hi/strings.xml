@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ButtonID</string>
+    <string name="left_button">बाएं</string>
+    <string name="right_button">दाहिने</string>
+    <string name="bottom_left_button">नीचे बाएँ</string>
+    <string name="bottom_right_button">नीचे दायें</string>
+    <string name="left">शीर्ष बाएं बटन दबाया गया है</string>
+    <string name="right">शीर्ष दाहिने बटन दबाया गया है</string>
+    <string name="bottomRight">नीचे दाहिने बटन दबाया गया है</string>
+    <string name="bottomLeft">नीचे बाएँ बटन दबाया गया है</string>
+</resources>

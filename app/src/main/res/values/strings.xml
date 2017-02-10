@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WidgetLoader</string>
+    <string name="left_button">TextView</string>
+    <string name="right_button">RadioButton</string>
+    <string name="bottom_left_button">Spinner</string>
+    <string name="bottom_right_button">ProgressBar</string>
+    <string name="tv">Sample Text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

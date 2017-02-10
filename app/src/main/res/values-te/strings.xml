@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ButtonID</string>
+    <string name="left_button">ఎడమ</string>
+    <string name="right_button">కుడి</string>
+    <string name="bottom_left_button">దిగువ ఎడమ</string>
+    <string name="bottom_right_button">కుడి దిగువన</string>
+    <string name="left">టాప్ ఎడమ బటన్ ప్రెస్ చేసారు</string>
+    <string name="right">టాప్ కుడి బటన్ ప్రెస్ చేసారు</string>
+    <string name="bottomRight">కుడి దిగువ బటన్ ప్రెస్ చేసారు</string>
+    <string name="bottomLeft">దిగువ ఎడమ బటన్ ప్రెస్ చేసారు</string>
+</resources>
